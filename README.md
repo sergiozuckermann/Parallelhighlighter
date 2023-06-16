@@ -3,6 +3,9 @@
 ### Santiago Tena
 ---
 
+## Ejecución del programa
+    :timer.tc(fn -> PythonTokenizer.parallel_highlight("python")end)
+
 Primeras ejecuciones:
 
 3 Archivos de diferente tamaño de manera secuencial:
